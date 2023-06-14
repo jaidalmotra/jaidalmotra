@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Jai Dalmotra</h1>
 <h3 align="center">A passionate web developer having keen interest in ML/AI and cloud</h3>
 
