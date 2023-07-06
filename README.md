@@ -2,8 +2,10 @@
 <h2 align="center">Wanna know My Diverse Journey?</h2>
 <h3 align="center">As an aspiring Web developer pursuing a Bachelor's in Computer Engineering from Thapar
                             University, I am on an exciting quest to merge the realms of technology and creativity. My
-                            portfolio is a testament to the convergence of my passions: machine learning, cloud
-                            computing, and digital art.</h3>
+                            portfolio is a testament to the convergence of my passions: Machine Learning,Deep Learning, Cloud
+                            Computing, and Digital art.</h3>
+                            <br>
+                            <hr>
 
 <img align="right" alt="coding" width="400" src="https://github.com/jaidalmotra/Jai-Dalmotra/assets/93703635/427bc7dd-f1a2-4753-889e-7bb224d7e808">
 
