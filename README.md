@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine learning ,Deep Learning and Cloud**
 
-- 👨‍💻 All of my projects are available at [my github-jaidalmotra](my github-jaidalmotra)
+- 👨‍💻 All of my projects are available at my github- jaidalmotra
 
 - 💬 Ask me about **Frontend and Artificial Intelligence**
 
