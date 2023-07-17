@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaidalmotra&label=Profile%20views&color=0e75b6&style=flat" alt="jaidalmotra" /> </p>
 
-- 🌱 I’m currently learning **Machine learning ,Deep Learning and Cloud**
+- 🌱 I’m currently learning **Machine learning ,Deep Learning and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at my github- jaidalmotra
 
