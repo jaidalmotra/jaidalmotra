@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/jaidalmotra**
 
-- 💬 Ask me about **Frontend and Artificial Intelligence**
+- 💬 Ask me about **Frontend and Machine Learning**
 
 - 📫 How to reach me **jaidalmotra01@gmail.com**
 
