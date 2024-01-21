@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jai</h1>
+<h2 align="center">3x Kaggle Expert
 <h2 align="center">Wanna know My Diverse Journey?</h2>
 <h3 align="left">As an aspiring Web developer pursuing a Bachelor's in Computer Engineering from Thapar
                             University, I am on an exciting quest to merge the realms of technology and creativity. My
