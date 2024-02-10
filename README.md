@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://imagedelivery.net/9sCnq8t6WEGNay0RAQNdvQ/UUID-cl9cr2hgf1831pwoxnukqzdz1/public" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://imagedelivery.net/9sCnq8t6WEGNay0RAQNdvQ/UUID-cl9cr2hgf1831pwoxnukqzdz1/public" align="center" style="width: 80%; height: 50%;" />
+</div>
+
+
   
 
 ### <div align="center">Hello, tech enthusiasts! I'm Jai, a passionate Computer Engineering on a quest to unravel the endless possibilities at the intersection of technology and innovation.</div>  
