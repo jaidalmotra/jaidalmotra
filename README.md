@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jaidalmotra/jaidalmotra/blob/main/desktop.png" align="center" style="width: 55%; height: 10%;" />
+  <img src="https://github.com/jaidalmotra/jaidalmotra/blob/main/desktop.png" align="center" style="width: 50%; height: 10%;" />
 </div>
 
 
