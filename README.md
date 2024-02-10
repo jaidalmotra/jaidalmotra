@@ -91,17 +91,8 @@
 
 <br/>  
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
-
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=xla82u5y7cc9i3vfwdazd4gmj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=xla82u5y7cc9i3vfwdazd4gmj&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=2b00ff&bar_color_cover=true" /></div>  
-
-<br/>  
-
+ 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaidalmotra&&style=flat-square" align="center" />
 </div>  
@@ -141,3 +132,6 @@ If things goes well, this section should automatically be replaced by a list of 
   </div>
 </div>
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xla82u5y7cc9i3vfwdazd4gmj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
+
+<br/> 
