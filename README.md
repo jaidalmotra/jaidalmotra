@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://imagedelivery.net/9sCnq8t6WEGNay0RAQNdvQ/UUID-cl9cr2hgf1831pwoxnukqzdz1/public" align="center" style="width: 100%" />
 </div>  
+  
   
 
 ### <div align="center">Hello, tech enthusiasts! I'm Jai, a passionate Computer Engineering on a quest to unravel the endless possibilities at the intersection of technology and innovation.</div>  
   
 
-- 🔭 I’m currently working on [Backdoor Detection](https://github.com/jaidalmotra/Backdoor-Detection) and Effects of Mutations on protein   
+- 🔭 I’m currently working on [Backdoor Detection](https://github.com/jaidalmotra/Backdoor-Detection) and Effects of Mutations on Protein   
   
 
 - 🌱 I’m currently learning Machine Learning , Cuda and Django  
