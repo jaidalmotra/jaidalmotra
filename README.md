@@ -88,11 +88,9 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-<br/>  
  
+<br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaidalmotra&&style=flat-square" align="center" />
 </div>  
@@ -108,7 +106,6 @@
                 />
             </a></div>
 <br />
-
 
 
 ## Github Stats  
