@@ -93,13 +93,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaidalmotra&show_icons=true&count_private=true&hide_border=true" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaidalmotra&show_icons=true&locale=en&layout=compact" alt="jaidalmotra" /></div>  
 
 <br/>  
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaidalmotra&show_icons=true&locale=en&layout=compact" alt="jaidalmotra" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jaidalmotra&show_icons=true&count_private=true&hide_border=true" />
   </div>
   <br>
   <div>
